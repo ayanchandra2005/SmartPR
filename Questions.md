@@ -1,6 +1,7 @@
 # Meeting Agenda: QA & Automation Project Brainstorming
 
 **Date:** March 4, 2026
+
 **Topic:** Aligning my Co-op project with QA and testing priorities.
 
 ## 1. Understanding Current QA Workflows
@@ -19,7 +20,7 @@ Goal is to catch issues earlier in the pipeline and reduce manual overhead.
 * Are there specific Databricks or Python anti-patterns you wish were automatically flagged *before* the code ever reaches the QA testing phase?
 
 ## 3. Alternative Automation Opportunities
-*If the PR assistant isn't the highest priority, I am very open to pivoting to what the team actually needs by mid-May.*
+I am open to pivoting to what the team actually needs by mid-May.
 
 * If the QA team had a dedicated resource to build one automation or testing tool for you between now and May, what would be at the top of your wish list?
 * Given our heavy use of Azure DevOps and Databricks, is there a gap in how we currently test our data pipelines that I could help automate?
